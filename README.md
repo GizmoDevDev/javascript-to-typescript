@@ -16,3 +16,4 @@
 
 ## [Базовая работа с typescript](./docs/basic-typescript.md)
 ## [Продвинутая работа с typescript](./docs/advanced-typescript.md)
+## [Проверка типов](./docs/type-guard.md)
